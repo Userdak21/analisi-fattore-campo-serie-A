@@ -1,6 +1,6 @@
 # Analisi Fattore Campo — Serie A ⚽
 
-**Progetto Data Science** | ITS ICT Piemonte
+**Primo Progetto Data Science, in gruppo** | ITS ICT Piemonte
 
 ## Obiettivo
 Rispondere alla domanda: *Esiste un vantaggio significativo per le squadre che giocano in casa in Serie A?*
